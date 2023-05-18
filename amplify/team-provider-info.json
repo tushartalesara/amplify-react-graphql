@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "facefilter326f39ef": {}
+      },
+      "api": {
+        "facefilter": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
